@@ -20,3 +20,8 @@ Environment: dev
 ## Progress Log 
 -[x] Day 1: repo + region + naming + budgets 
 -[] Day 2: cognito setup
+## Auth (cognito)
+User pool Id:ap-southeast-2_nARdshi58
+App client Id:s985d7i4cfobc90tj8l4rcilu
+Region: ap-southeast-2
+
